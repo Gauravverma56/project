@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+.bgg{
+    background: url("https://digitalbizcard.only4agents.com/assets/images/register.jpg");
+}
+.bordd{
+    border-radius: 500px;
+    height: 313px;
+    width: 317px;
+    margin-top: -149px;
+    margin-left: 1157px;
+    /* position: relative; */
+    border: 4px solid red;
+}
+
+.height{
+    height: 550px;
+}
+.fonty{
+    font-size: 117px;
+    color: yellow;
+    margin-top: 50px;
+}
+.fontyy{
+    font-size: 35px;
+    color: rgb(148, 148, 148);
+    padding-left: 13px;
+}
+.linkk{
+    margin-top: -163px;
+    font-size: 21px;
+}
+.mxx{
+    margin-left: 1035px;
+}
+.contact{
+    display: flex;
+    gap: 70px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 13px;
+}
+.contact li{
+    list-style: none;
+}
+.fa-solid{
+    /* font-size: 50px; */
+    background: rgb(255, 0, 0);
+    width: 73px;
+    text-align: center;
+    border: 3px solid rgb(229, 255, 34);
+    padding-top: 8px;
+    height: 70px;
+    border-radius: 11px;
+    font-size: 49px;
+}
+.fa{
+    background: rgb(255, 0, 0);
+    border: 3px solid rgb(245, 234, 39);
+    width: 73px;
+    text-align: center;
+    padding-top: 8px;
+    height: 70px;
+    border-radius: 11px;
+    font-size: 49px;
+}
+.subt{
+    height: 95px;
+    margin-top: 110px;
+    border-radius: 50px;
+}
+.about{
+    color: whitesmoke;
+    width: 1301px;
+    text-align: center;
+    /* border: 3px solid yellow; */
+    margin-top: 116px;
+}
+.hedd{
+    font-size: 5.6rem;
+}
+.about p{
+     border: 3px solid yellow;
+}
+.card{
+    width: 304px;
+    margin-top: 100px;
+    position: relative;
+    margin: auto;
+    gap: 20px;
+}
+.fle{
+    display: grid;
+    gap: 59px;
+    grid-template-columns: repeat(3,1fr);
+    margin-right: 526px;
+    bottom: -1455px;
+    top: 1476px;
+    position: absolute;
+    margin-left: 160px;
+}
+.heddd{
+    font-size: 5.6rem;
+    text-align: center;
+}
+.fle5{
+    margin: auto;
+    margin-top: 1050px;
+}
+.padd-mar{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.sameborder{
+    margin-bottom: 8px;
+    height: 55px;
+    border-radius: 10px;
+}
